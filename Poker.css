@@ -1,0 +1,52 @@
+h1{
+    font: 32px Arial, sans-serif;
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    margin: 0px;
+}
+body{
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("green_background.jpg");
+}
+.container{
+ margin: 20px auto;
+ color: #000000;
+ background: rgb(63,252,132);
+ background: linear-gradient(180deg, rgba(63,252,132,0.8575805322128851) 25%, rgba(75,250,107,0.7791491596638656) 75%);
+ padding: 20px;
+ font: 16px arial, sans-serif;
+ max-width: 800px;
+}
+h2{
+    color: #000000;
+    margin: 19.92px 0px;
+    font: 24px Arial, sans-serif;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.textcenter{
+    text-align: center;
+}
+td,th{
+    border: 1px solid red;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: blue;
+}
+
+h1, th{
+    color: lightcoral;
+}
+td{
+    background-color: lightcoral;
+}
